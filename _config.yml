@@ -120,13 +120,15 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "Jens_Qin"
+      icon: "fab fa-fw fa-twitter-square"
+      url:  "https://twitter.com/Jens_Qin"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "jensqin"
+      icon: "fab fa-fw fa-github"
+      url:  "https://github.com/jensqin"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -136,13 +138,15 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "https://twitter.com/Jens_Qin"
+      icon: "fab fa-fw fa-twitter-square"
+      url:  "https://twitter.com/Jens_Qin"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "https://github.com/jensqin"
+      icon: "fab fa-fw fa-github"
+      url:  "https://github.com/jensqin"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
